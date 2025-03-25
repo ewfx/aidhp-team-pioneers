@@ -1,0 +1,338 @@
+[
+  {
+    "recommendations": [
+      [
+        -0.2761934995651245
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.30435919761657715,
+    "risk_assessment": {
+      "risk_score": 0.5193877667188644,
+      "risk_category": "High",
+      "risk_factors": {
+        "model_risk": 0.6037351489067078,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.012824537232518196
+      },
+      "recommendations": [
+        "Regular risk assessment updates",
+        "Enhanced transaction monitoring",
+        "Customer behavior analysis"
+      ]
+    },
+    "prompts": [
+      "Given your engagement level of 211.0 and sentiment analysis, Product_1 would be a great fit for your business needs"
+    ],
+    "confidence": 0.4313872456550598,
+    "reward_prediction": 0.7644999027252197,
+    "customer_id": "ORG_US_004",
+    "customer_profile": {
+      "industry": "Fashion And Clothing",
+      "revenue": "150M-200M",
+      "employees": "800-1500",
+      "financial_needs": [
+        "Supply Chain Financing",
+        " Inventory Loans",
+        " Retail Banking"
+      ],
+      "preferences": [
+        "Influencer Marketing",
+        " International Expansion",
+        " Sustainable Fabrics"
+      ]
+    }
+  },
+  {
+    "recommendations": [
+      [
+        -0.7636304497718811
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.07673336565494537,
+    "risk_assessment": {
+      "risk_score": 0.6709718406200409,
+      "risk_category": "High",
+      "risk_factors": {
+        "model_risk": 0.7569823265075684,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.0010115336626768112
+      },
+      "recommendations": [
+        "Regular risk assessment updates",
+        "Enhanced transaction monitoring",
+        "Customer behavior analysis"
+      ]
+    },
+    "prompts": [
+      "Given your engagement level of 649.0 and sentiment analysis, Product_1 would be a great fit for your business needs"
+    ],
+    "confidence": 0.31785857677459717,
+    "reward_prediction": 0.9780774116516113,
+    "customer_id": "ORG_US_001",
+    "customer_profile": {
+      "industry": "IT Services and Sofware Development",
+      "revenue": "50M-80M",
+      "employees": "500-1000",
+      "financial_needs": [
+        "Business Loans",
+        " Payment Procesing",
+        " Treasury Services"
+      ],
+      "preferences": [
+        "Cloud Services",
+        " Employee Benefits",
+        " International Expansion"
+      ]
+    }
+  },
+  {
+    "recommendations": [
+      [
+        -1.0935616493225098
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.027968181297183037,
+    "risk_assessment": {
+      "risk_score": 0.7343379318714142,
+      "risk_category": "High",
+      "risk_factors": {
+        "model_risk": 0.8340355157852173,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.003646437544375658
+      },
+      "recommendations": [
+        "Implement additional verification steps",
+        "Monitor transactions more frequently",
+        "Consider setting transaction limits"
+      ]
+    },
+    "prompts": [
+      "Based on your interests in [567, 823, 829] and financial needs, we recommend Product_1 because it matches your financial needs"
+    ],
+    "confidence": 0.2509481906890869,
+    "reward_prediction": 0.9957168698310852,
+    "customer_id": "ORG_US_005",
+    "customer_profile": {
+      "industry": "Sports Equipment and Apparel",
+      "revenue": "80M-120M",
+      "employees": "500-1000",
+      "financial_needs": [
+        "Business Loans",
+        " Sponsorship Financing",
+        " Digital Payments"
+      ],
+      "preferences": [
+        "Athlete Sponsorship",
+        " R&D",
+        " E-commerce tech"
+      ]
+    }
+  },
+  {
+    "recommendations": [
+      [
+        -0.4397823214530945
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.1904909759759903,
+    "risk_assessment": {
+      "risk_score": 0.5834804773330688,
+      "risk_category": "High",
+      "risk_factors": {
+        "model_risk": 0.6646884679794312,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.00662150327116251
+      },
+      "recommendations": [
+        "Regular risk assessment updates",
+        "Enhanced transaction monitoring",
+        "Customer behavior analysis"
+      ]
+    },
+    "prompts": [
+      "Based on your interests in [757, 843, 605] and financial needs, we recommend Product_1 because it matches your financial needs"
+    ],
+    "confidence": 0.3917928636074066,
+    "reward_prediction": 0.8990702033042908,
+    "customer_id": "ORG_US_002",
+    "customer_profile": {
+      "industry": "Agriculture and Organic Food Production",
+      "revenue": "20M-30M",
+      "employees": "200-500",
+      "financial_needs": [
+        "Agriculture Loans",
+        " Supply Chain Financing",
+        " POS Banking"
+      ],
+      "preferences": [
+        "Farm Equipment",
+        " Distribution Channels",
+        " R&D on Sustainable Farming"
+      ]
+    }
+  },
+  {
+    "recommendations": [
+      [
+        -1.1438555717468262
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.024941256269812584,
+    "risk_assessment": {
+      "risk_score": 0.738220477104187,
+      "risk_category": "High",
+      "risk_factors": {
+        "model_risk": 0.8393000960350037,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.008285490795969963
+      },
+      "recommendations": [
+        "Implement additional verification steps",
+        "Monitor transactions more frequently",
+        "Consider setting transaction limits"
+      ]
+    },
+    "prompts": [
+      "Given your engagement level of 954.0 and sentiment analysis, Product_1 would be a great fit for your business needs"
+    ],
+    "confidence": 0.24161316454410553,
+    "reward_prediction": 0.9963239431381226,
+    "customer_id": "ORG_US_007",
+    "customer_profile": {
+      "industry": "Textile and Sustainable Fabrics",
+      "revenue": "100M-150M",
+      "employees": "500-1200",
+      "financial_needs": [
+        "Green Loans",
+        " Supply Chain Financing",
+        " Digital Payments"
+      ],
+      "preferences": [
+        "R&D",
+        " Ethical Sourcing",
+        " International Logistics"
+      ]
+    }
+  },
+  {
+    "recommendations": [
+      [
+        -1.1536264419555664
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.02358582243323326,
+    "risk_assessment": {
+      "risk_score": 0.741145658493042,
+      "risk_category": "High",
+      "risk_factors": {
+        "model_risk": 0.8431553244590759,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.017677297815680504
+      },
+      "recommendations": [
+        "Implement additional verification steps",
+        "Monitor transactions more frequently",
+        "Consider setting transaction limits"
+      ]
+    },
+    "prompts": [
+      "Given your engagement level of 968.0 and sentiment analysis, Product_1 would be a great fit for your business needs"
+    ],
+    "confidence": 0.23982731997966766,
+    "reward_prediction": 0.9966075420379639,
+    "customer_id": "ORG_US_003",
+    "customer_profile": {
+      "industry": "Financial Services and Wealth Management",
+      "revenue": "100M-150M",
+      "employees": "100-200",
+      "financial_needs": [
+        "High-Net Worth banking",
+        " Investment Management",
+        " Risk Hedging"
+      ],
+      "preferences": [
+        "Market Research",
+        " Alternatice Investments",
+        " Private Equity"
+      ]
+    }
+  },
+  {
+    "recommendations": [
+      [
+        -0.2450113743543625
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.3123244345188141,
+    "risk_assessment": {
+      "risk_score": 0.5122197031974792,
+      "risk_category": "High",
+      "risk_factors": {
+        "model_risk": 0.5962929725646973,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.00028414372354745865
+      },
+      "recommendations": [
+        "Regular risk assessment updates",
+        "Enhanced transaction monitoring",
+        "Customer behavior analysis"
+      ]
+    },
+    "prompts": [
+      "Given your engagement level of 205.0 and sentiment analysis, Product_1 would be a great fit for your business needs"
+    ],
+    "confidence": 0.4390517473220825,
+    "reward_prediction": 0.762490451335907,
+    "customer_id": "ORG_US_006",
+    "customer_profile": {
+      "industry": "Luxury Fashion and Apparel",
+      "revenue": "500M-700M",
+      "employees": "1000-2500",
+      "financial_needs": [
+        "High-Net Worth banking",
+        " Expansion Loans",
+        " Payment Processing"
+      ],
+      "preferences": [
+        "Digital Innovation",
+        " Limited Edition Collections",
+        " Global Marketing"
+      ]
+    }
+  }
+]

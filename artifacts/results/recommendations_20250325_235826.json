@@ -1,0 +1,296 @@
+[
+  {
+    "recommendations": [
+      [
+        0.4933261275291443
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.49930134415626526,
+    "risk_assessment": {
+      "risk_score": 0.4448110967874527,
+      "risk_category": "Medium",
+      "risk_factors": {
+        "model_risk": 0.5251461267471313,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.014921280555427074
+      },
+      "recommendations": [
+        "Standard monitoring procedures",
+        "Regular risk assessment",
+        "Customer engagement tracking"
+      ]
+    },
+    "prompts": [
+      "Given your company size (800-1500) and revenue range (150M-200M), Product_1 would enhance your business capabilities with optimized financial solutions"
+    ],
+    "confidence": 0.6208896636962891,
+    "reward_prediction": 0.5034040808677673,
+    "customer_id": "ORG_US_004",
+    "customer_profile": {
+      "customer_id": "ORG_US_004",
+      "industry": "Fashion And Clothing",
+      "employees": "800-1500",
+      "revenue": "150M-200M",
+      "preferences": "Influencer Marketing, International Expansion, Sustainable Fabrics",
+      "financial_needs": "Supply Chain Financing, Inventory Loans, Retail Banking",
+      "risk_profile": "Medium"
+    }
+  },
+  {
+    "recommendations": [
+      [
+        0.490937739610672
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.49644771218299866,
+    "risk_assessment": {
+      "risk_score": 0.44473062455654144,
+      "risk_category": "Medium",
+      "risk_factors": {
+        "model_risk": 0.5245493650436401,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.003223082283511758
+      },
+      "recommendations": [
+        "Standard monitoring procedures",
+        "Regular risk assessment",
+        "Customer engagement tracking"
+      ]
+    },
+    "prompts": [
+      "Based on your industry (IT Services and Sofware Development) and preferences (Cloud Services, Employee Benefits, International Expansion), we recommend Product_1 to optimize your Business Loans, Payment Procesing, Treasury Services"
+    ],
+    "confidence": 0.6203272938728333,
+    "reward_prediction": 0.5028532147407532,
+    "customer_id": "ORG_US_001",
+    "customer_profile": {
+      "customer_id": "ORG_US_001",
+      "industry": "IT Services and Sofware Development",
+      "employees": "500-1000",
+      "revenue": "50M-80M",
+      "preferences": "Cloud Services, Employee Benefits, International Expansion",
+      "financial_needs": "Business Loans, Payment Procesing, Treasury Services",
+      "risk_profile": "Medium"
+    }
+  },
+  {
+    "recommendations": [
+      [
+        0.49076661467552185
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.49504414200782776,
+    "risk_assessment": {
+      "risk_score": 0.44209058880805974,
+      "risk_category": "Medium",
+      "risk_factors": {
+        "model_risk": 0.5206689238548279,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.03185106813907623
+      },
+      "recommendations": [
+        "Standard monitoring procedures",
+        "Regular risk assessment",
+        "Customer engagement tracking"
+      ]
+    },
+    "prompts": [
+      "Based on your industry (Sports Equipment and Apparel) and preferences (Athlete Sponsorship, R&D, E-commerce tech), we recommend Product_1 to optimize your Business Loans, Sponsorship Financing, Digital Payments"
+    ],
+    "confidence": 0.6202870607376099,
+    "reward_prediction": 0.5052316784858704,
+    "customer_id": "ORG_US_005",
+    "customer_profile": {
+      "customer_id": "ORG_US_005",
+      "industry": "Sports Equipment and Apparel",
+      "employees": "500-1000",
+      "revenue": "80M-120M",
+      "preferences": "Athlete Sponsorship, R&D, E-commerce tech",
+      "financial_needs": "Business Loans, Sponsorship Financing, Digital Payments",
+      "risk_profile": "Medium"
+    }
+  },
+  {
+    "recommendations": [
+      [
+        0.4932250678539276
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.49605220556259155,
+    "risk_assessment": {
+      "risk_score": 0.44674347937107084,
+      "risk_category": "Medium",
+      "risk_factors": {
+        "model_risk": 0.5276805758476257,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.03564222529530525
+      },
+      "recommendations": [
+        "Standard monitoring procedures",
+        "Regular risk assessment",
+        "Customer engagement tracking"
+      ]
+    },
+    "prompts": [
+      "Based on your industry (Agriculture and Organic Food Production) and preferences (Farm Equipment, Distribution Channels, R&D on Sustainable Farming), we recommend Product_1 to optimize your Agriculture Loans, Supply Chain Financing, POS Banking"
+    ],
+    "confidence": 0.6208658814430237,
+    "reward_prediction": 0.5011290311813354,
+    "customer_id": "ORG_US_002",
+    "customer_profile": {
+      "customer_id": "ORG_US_002",
+      "industry": "Agriculture and Organic Food Production",
+      "employees": "200-500",
+      "revenue": "20M-30M",
+      "preferences": "Farm Equipment, Distribution Channels, R&D on Sustainable Farming",
+      "financial_needs": "Agriculture Loans, Supply Chain Financing, POS Banking",
+      "risk_profile": "Medium"
+    }
+  },
+  {
+    "recommendations": [
+      [
+        0.4901030659675598
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.4923988878726959,
+    "risk_assessment": {
+      "risk_score": 0.44146087765693665,
+      "risk_category": "Medium",
+      "risk_factors": {
+        "model_risk": 0.5192680954933167,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.003321942873299122
+      },
+      "recommendations": [
+        "Standard monitoring procedures",
+        "Regular risk assessment",
+        "Customer engagement tracking"
+      ]
+    },
+    "prompts": [
+      "Based on your industry (Textile and Sustainable Fabrics) and preferences (R&D, Ethical Sourcing, International Logistics), we recommend Product_1 to optimize your Green Loans, Supply Chain Financing, Digital Payments"
+    ],
+    "confidence": 0.620130717754364,
+    "reward_prediction": 0.503459632396698,
+    "customer_id": "ORG_US_007",
+    "customer_profile": {
+      "customer_id": "ORG_US_007",
+      "industry": "Textile and Sustainable Fabrics",
+      "employees": "500-1200",
+      "revenue": "100M-150M",
+      "preferences": "R&D, Ethical Sourcing, International Logistics",
+      "financial_needs": "Green Loans, Supply Chain Financing, Digital Payments",
+      "risk_profile": "Medium"
+    }
+  },
+  {
+    "recommendations": [
+      [
+        0.4879879057407379
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.4953775107860565,
+    "risk_assessment": {
+      "risk_score": 0.4446193844079972,
+      "risk_category": "Medium",
+      "risk_factors": {
+        "model_risk": 0.523271918296814,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.017612816765904427
+      },
+      "recommendations": [
+        "Standard monitoring procedures",
+        "Regular risk assessment",
+        "Customer engagement tracking"
+      ]
+    },
+    "prompts": [
+      "Based on your industry (Financial Services and Wealth Management) and preferences (Market Research, Alternatice Investments, Private Equity), we recommend Product_1 to optimize your High-Net Worth banking, Investment Management, Risk Hedging"
+    ],
+    "confidence": 0.6196323037147522,
+    "reward_prediction": 0.5031067728996277,
+    "customer_id": "ORG_US_003",
+    "customer_profile": {
+      "customer_id": "ORG_US_003",
+      "industry": "Financial Services and Wealth Management",
+      "employees": "100-200",
+      "revenue": "100M-150M",
+      "preferences": "Market Research, Alternatice Investments, Private Equity",
+      "financial_needs": "High-Net Worth banking, Investment Management, Risk Hedging",
+      "risk_profile": "Medium"
+    }
+  },
+  {
+    "recommendations": [
+      [
+        0.4890645444393158
+      ]
+    ],
+    "indices": [
+      [
+        0
+      ]
+    ],
+    "bias_score": 0.493970662355423,
+    "risk_assessment": {
+      "risk_score": 0.44404487907886503,
+      "risk_category": "Medium",
+      "risk_factors": {
+        "model_risk": 0.5227670073509216,
+        "transaction_risk": 0.5,
+        "sentiment_risk": -0.009951225481927395
+      },
+      "recommendations": [
+        "Standard monitoring procedures",
+        "Regular risk assessment",
+        "Customer engagement tracking"
+      ]
+    },
+    "prompts": [
+      "Based on your industry (Luxury Fashion and Apparel) and preferences (Digital Innovation, Limited Edition Collections, Global Marketing), we recommend Product_1 to optimize your High-Net Worth banking, Expansion Loans, Payment Processing"
+    ],
+    "confidence": 0.619886040687561,
+    "reward_prediction": 0.5040571093559265,
+    "customer_id": "ORG_US_006",
+    "customer_profile": {
+      "customer_id": "ORG_US_006",
+      "industry": "Luxury Fashion and Apparel",
+      "employees": "1000-2500",
+      "revenue": "500M-700M",
+      "preferences": "Digital Innovation, Limited Edition Collections, Global Marketing",
+      "financial_needs": "High-Net Worth banking, Expansion Loans, Payment Processing",
+      "risk_profile": "Medium"
+    }
+  }
+]

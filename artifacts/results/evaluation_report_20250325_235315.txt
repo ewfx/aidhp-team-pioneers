@@ -1,0 +1,10 @@
+Evaluation Report
+==================================================
+
+Performance Metrics:
+--------------------
+RECOMMENDATION_COUNT: 7.0000
+
+Fairness Metrics:
+--------------------
+bias_score: 0.1372
