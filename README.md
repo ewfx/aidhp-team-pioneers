@@ -109,9 +109,10 @@ The inspiration for this project came from the growing need for personalized fin
 - 🔹 Other: OpenAI API, LangChain
 
 ## 👥 Team
-- **Prem Sai** - [GitHub](https://github.com/premasai09) | [LinkedIn](https://www.linkedin.com/in/prem-sai/)
-- **Team Member 2** - [GitHub](#) | [LinkedIn](#)
-- **Team Member 3** - [GitHub](#) | [LinkedIn](#)
+- **Prema Sai**
+- **Sailesh Rudraraju**
+- **Sudheer Reddy**
+- **Vamsi Pamireddy** 
 
 ## Features
 
