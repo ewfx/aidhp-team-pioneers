@@ -17,12 +17,7 @@
 The AI-Driven Hyper-Personalization Recommendation System is an advanced AI solution designed to revolutionize financial services by providing personalized recommendations while ensuring fairness, privacy, and ethical AI practices. This system addresses the critical challenge of delivering tailored financial advice while maintaining regulatory compliance and customer trust.
 
 ## 🎥 Demo
-🔗 [Live Demo](https://github.com/ewfx/aidhp-team-pioneers)  
-📹 [Video Demo](#) (Coming Soon)  
-🖼️ Screenshots:
-
-![Architecture Overview](demo/architecture.png)
-![Evaluation Results](demo/evaluation_results.png)
+Power Point Presentation Uploaded to the root folder.
 
 ## 💡 Inspiration
 The inspiration for this project came from the growing need for personalized financial services that respect customer privacy and maintain ethical standards. Traditional recommendation systems often fall short in terms of fairness and transparency. We aimed to create a solution that combines advanced AI capabilities with strong ethical principles to deliver truly personalized financial recommendations.
