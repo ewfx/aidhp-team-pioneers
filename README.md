@@ -1,6 +1,117 @@
-# AI-Driven Hyper-Personalization Recommendation System
+# 🚀 AI-Driven Hyper-Personalization Recommendation System
 
-An advanced Generative AI Model solution for hyper-personalization recommendations, focusing on financial services and business solutions. The system combines multiple AI techniques including multi-modal learning, reinforcement learning from human feedback (RLHF), and risk assessment to provide personalized, fair, and ethical recommendations.
+## 📌 Table of Contents
+- [Introduction](#introduction)
+- [Demo](#demo)
+- [Inspiration](#inspiration)
+- [What It Does](#what-it-does)
+- [How We Built It](#how-we-built-it)
+- [Challenges We Faced](#challenges-we-faced)
+- [How to Run](#how-to-run)
+- [Tech Stack](#tech-stack)
+- [Team](#team)
+
+---
+
+## 🎯 Introduction
+The AI-Driven Hyper-Personalization Recommendation System is an advanced AI solution designed to revolutionize financial services by providing personalized recommendations while ensuring fairness, privacy, and ethical AI practices. This system addresses the critical challenge of delivering tailored financial advice while maintaining regulatory compliance and customer trust.
+
+## 🎥 Demo
+🔗 [Live Demo](https://github.com/ewfx/aidhp-team-pioneers)  
+📹 [Video Demo](#) (Coming Soon)  
+🖼️ Screenshots:
+
+![Architecture Overview](demo/architecture.png)
+![Evaluation Results](demo/evaluation_results.png)
+
+## 💡 Inspiration
+The inspiration for this project came from the growing need for personalized financial services that respect customer privacy and maintain ethical standards. Traditional recommendation systems often fall short in terms of fairness and transparency. We aimed to create a solution that combines advanced AI capabilities with strong ethical principles to deliver truly personalized financial recommendations.
+
+## ⚙️ What It Does
+- **Multi-modal Learning**: Processes customer data, preferences, and risk profiles
+- **Real-time Risk Assessment**: Evaluates customer risk profiles continuously
+- **Bias Detection & Mitigation**: Ensures fair and unbiased recommendations
+- **Privacy-Preserving**: Protects sensitive customer information
+- **Personalized Recommendations**: Generates tailored financial advice
+- **Explainable AI**: Provides transparent reasoning for recommendations
+- **Continuous Learning**: Improves through RLHF (Reinforcement Learning from Human Feedback)
+
+## 🛠️ How We Built It
+1. **Data Processing Pipeline**
+   - Customer data preprocessing
+   - Feature engineering
+   - Multi-modal data integration
+
+2. **Model Architecture**
+   - Customer Encoder for numerical features
+   - Interest Embedding for preference vectors
+   - Risk Assessment Module
+   - Multi-modal Fusion Layer
+   - Prompt Engineering System
+
+3. **Evaluation Framework**
+   - Bias detection metrics
+   - Risk assessment validation
+   - Recommendation accuracy testing
+   - Fairness scoring
+
+## 🚧 Challenges We Faced
+1. **Technical Challenges**
+   - Multi-modal data integration
+   - Real-time risk assessment
+   - Model interpretability
+   - Bias detection and mitigation
+
+2. **Non-Technical Challenges**
+   - Data privacy compliance
+   - Regulatory requirements
+   - Ethical AI implementation
+   - Stakeholder buy-in
+
+## 🏃 How to Run
+1. Clone the repository  
+   ```sh
+   git clone https://github.com/ewfx/aidhp-team-pioneers.git
+   cd aidhp-team-pioneers
+   ```
+
+2. Create and activate virtual environment  
+   ```sh
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   ```
+
+3. Install dependencies  
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+4. Set up environment variables  
+   ```sh
+   cp .env.example .env
+   # Edit .env with your configuration
+   ```
+
+5. Run the demo  
+   ```sh
+   python src/demo.py
+   ```
+
+## 🏗️ Tech Stack
+- 🔹 Core: Python 3.9+
+- 🔹 Deep Learning: PyTorch, Transformers
+- 🔹 Data Processing: NumPy, Pandas
+- 🔹 Machine Learning: scikit-learn
+- 🔹 NLP: sentence-transformers
+- 🔹 Visualization: Matplotlib, Seaborn
+- 🔹 Testing: pytest
+- 🔹 Documentation: Jupyter
+- 🔹 Other: OpenAI API, LangChain
+
+## 👥 Team
+- **Prem Sai** - [GitHub](https://github.com/premasai09) | [LinkedIn](https://www.linkedin.com/in/prem-sai/)
+- **Team Member 2** - [GitHub](#) | [LinkedIn](#)
+- **Team Member 3** - [GitHub](#) | [LinkedIn](#)
 
 ## Features
 
